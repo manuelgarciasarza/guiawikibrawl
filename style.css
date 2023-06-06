@@ -1,0 +1,85 @@
+* {
+    padding: 0;
+    margin: 0;
+    color: #0A3143;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Geologica', sans-serif;
+}
+
+body {
+    background-color: #EFEFEF;
+}
+
+/* paleta de colores:
+principal: #276E90 detalles
+complementario: #CECFC9 botones
+oscuro: #0A3143 letras
+claro: #EFEFEF  fondo
+ */
+
+@media (max-width: 425px) {
+    .nav-menu{
+        display: flex;
+        justify-content: center;
+        font-size: 24px;
+        align-items: center;
+        height: 60px;
+        background-color: #276e90;
+    }
+
+    .nav-menu li {
+        margin: 0 30px ;
+    }
+
+    .nav-menu li a {
+        color:#EFEFEF;
+    }
+    
+    /* index */
+
+    .description-index h1{
+        text-align: center;
+        margin: 16px 0;
+    }
+
+    .description-index p{
+        text-align: justify;
+        margin: 16px 0;
+        padding: 0 8px;
+    }
+
+    .content-index {
+        margin: 0 16px ;
+        border: solid 4px #0A3143;
+    }
+
+    .index h2 {
+        text-align: center;
+        padding: 16px 0;
+    }
+
+    .categorias {
+        border-bottom: solid 4px #0A3143;
+    }
+
+    .categorias h3{
+        padding: 12px 12px;
+        background-color: #276e90;
+        color:#EFEFEF;
+        border-bottom: solid 4px #0A3143;
+    }
+
+    .categorias ul {
+        padding: 0 12px;
+        display: grid;
+        width: 90%;
+        grid-template-columns: 33% 33% 33%;
+        margin: auto;
+    }
+
+    .categorias ul li{
+        padding: 12px 0;
+        padding-left: 24px;
+    }
+} 

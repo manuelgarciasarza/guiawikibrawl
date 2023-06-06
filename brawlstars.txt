@@ -1,0 +1,88 @@
+conceptos basicos 
+    asesino > artillero
+    asesino > tiro de elite
+
+    artillero > destructor
+    artillero > tanque
+
+    tiro de elite > destructor
+    tiro de elite > artillero
+    
+    tanque > tiro de elite
+    tanque > asesino
+
+    destructor > tanque
+    destructor > asesino
+
+Balon brawl
+    mapas abiertos
+        -belle  (buen pockeo y desgaste)
+        -bea    (buen pockeo y burst)
+        -bo     (bueno para pockear y la ulti zonea)
+        -brock  (buen pockeo y burst)
+        -carl   (destructor [buen pockeo])
+        -poco   (apoyo [ataque molesto y cura])
+        -spike  (destructor [bueno para zonear])
+
+    mapas con muchas paredes
+        -barley   (artillero [bueno para zonear])
+        -dinamike   (artillero [bueno para zonear y deletear])
+        -spike  (destructor [bueno para zonear])
+        -carl   (destructor [buen pockeo])
+        -jacky  (tanque [buena para deletear y mucha velocidad])
+        -max    (apoyo [bueno para reducir vida])
+        -poco   (apoyo [ataque molesto y cura])
+        -edgar  (asesino [bueno para emboscadas])
+        -nita   (destructor [buena a corta distancia])
+        -buzz   (asesino [bueno para iniciar])
+
+    mapas con muchos arbustos
+        -edgar  (asesino [bueno para emboscadas])
+        -nita (destructor [buena a corta distancia])
+        -surge (destructor [anti tanque y deletea])
+        -spike  (destructor [bueno para zonear])
+        -buzz   (asesino [bueno para iniciar])
+        -dinamike (artillero [bueno para zonear y deletear])
+        -barley (artillero [bueno para zonear])
+        -primo  (tanque [bueno para iniciar y mucha vida])
+        -barryl (tanque [bueno para iniciar y bueno a corta distancia])
+        -max    (apoyo [bueno para reducir vida])
+        -poco   (apoyo [ataque molesto y cura])
+        -rosa   (tanque [buen aguante y pega desente])
+        -carl   (destructor [buen pockeo])
+        -jacky  (tanque [buena para deletear y mucha velocidad])
+
+Atrapagemas
+    mapas abiertos
+        
+    mapas con muchas paredes
+
+    mapas con muchos arbustos
+
+Atraco
+    mapas abiertos
+
+    mapas con muchas paredes
+
+    mapas con muchos arbustos
+
+Zona restringida
+    mapas abiertos
+
+    mapas con muchas paredes
+
+    mapas con muchos arbustos
+
+Noqueo
+    mapas abiertos
+
+    mapas con muchas paredes
+
+    mapas con muchos arbustos
+    
+Caza estelar
+    mapas abiertos
+
+    mapas con muchas paredes
+
+    mapas con muchos arbustos
