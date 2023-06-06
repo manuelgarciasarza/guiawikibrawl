@@ -1,18 +1,29 @@
 conceptos basicos 
     asesino > artillero
     asesino > tiro de elite
+    asesino > apoyo
 
     artillero > destructor
     artillero > tanque
+    artillero > control
 
     tiro de elite > destructor
     tiro de elite > artillero
-    
+    tiro de elite > control
+
     tanque > tiro de elite
     tanque > asesino
+    tanque > apoyo
 
     destructor > tanque
     destructor > asesino
+    destructor > apoyo
+
+    control > destructor
+    control > asesino
+    control > tanque
+
+    apoyo es bueno en muchos ambitos para apoyar a las otras clases pero se prodria decir que funcionan mejor con destructores y asesinos
 
 Balon brawl
     mapas abiertos
@@ -54,7 +65,7 @@ Balon brawl
 
 Atrapagemas
     mapas abiertos
-        
+
     mapas con muchas paredes
 
     mapas con muchos arbustos
